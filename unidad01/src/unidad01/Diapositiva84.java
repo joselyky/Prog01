@@ -2,9 +2,8 @@ package unidad01;
 
 import java.util.Scanner;
 
-
-
-	public static void main(String[] args) {
+public class Diapositiva84 {
+public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		Scanner sc = new Scanner(System.in);
@@ -24,5 +23,4 @@ import java.util.Scanner;
 		double total = totalman1 + totalper2 + totalman2 + totalper2 ;
 		System.out.printf("Has ganando en total %.2f €\n", total);
 	}
-
 }

@@ -2,8 +2,6 @@ package unidad01;
 
 import java.util.Scanner;
 
-import sun.security.util.resources.security;
-
 public class diapositiva71 {
 
 	public static void main(String[] args) {
